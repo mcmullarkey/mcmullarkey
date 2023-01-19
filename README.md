@@ -1,16 +1,16 @@
-### Hi there 👋
+## About 👋
 
-<!--
-**mcmullarkey/mcmullarkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I translate rigorous data science into value for humans. Right now I do that as a senior data scientist at a tech startup. Before that I did data science focused on digital mental health products and completed a PhD in clinical psychology.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on A/B testing and forecasting models
+- 🌱 I’m currently diving deep into advanced SQL
+- 😄 **Pronouns:** he/him
+- ⚡ **Fun fact:** I accidentally ended up on a ferry in Turkey.
+
+<br>
+
+## Connect 🤝
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcmullarkey/) &emsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mullarkey.mike@gmail.com) &emsp; 
