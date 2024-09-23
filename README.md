@@ -6,7 +6,7 @@ I translate rigorous data science into value for humans. Right now I do that as 
 - 🔭 I’m currently working on ML Engineering and improving model performance
 - 🌱 I’m currently diving deep into advanced SQL
 - 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** I accidentally ended up on a ferry in Turkey.
+- ⚡ **Fun fact:** I accidentally ended up on a ferry in Turkey
 
 <br>
 
